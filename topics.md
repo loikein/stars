@@ -158,6 +158,7 @@
 - [scala](#scala)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
@@ -782,6 +783,7 @@
 
 ## git 
 
+- [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [pimterry/git-confirm](https://github.com/pimterry/git-confirm) - :question: Git hook to catch placeholders and temporary changes (TODO / @ignore) before you commit them.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
@@ -1379,6 +1381,7 @@
 - [codl/forget](https://github.com/codl/forget) - Continuous post deletion for twitter, mastodon, and misskey
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [tateisu/SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon client app for Android
+- [yihui/mastodon-blogdown](https://github.com/yihui/mastodon-blogdown) - Fetch Mastodon messages weekly and turn them into a website based on blogdown
 - [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [mastodon/documentation](https://github.com/mastodon/documentation) - Mastodon documentation
@@ -1560,7 +1563,6 @@
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [SlidePilot/SlidePilot-macOS](https://github.com/SlidePilot/SlidePilot-macOS) - Ultimate PDF Presentation Tool for macOS 🖥
 - [mosynthkey/Melissa](https://github.com/mosynthkey/Melissa) - A music player for musical instrument practice
 - [chinatimeline/data](https://github.com/chinatimeline/data) - 中国政治和社会事件时间线数据仓库 Database for the timeline of political and societal events in China
@@ -2286,7 +2288,6 @@
 - [whiskyechobravo/kerkoapp](https://github.com/whiskyechobravo/kerkoapp) - A web application that provides a faceted search interface for bibliographies managed with Zotero.
 - [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
 - [rhydlewis/search-omnifocus](https://github.com/rhydlewis/search-omnifocus) - Alfred workflow that allows free text searching of OmniFocus tasks
-- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - :inbox_tray: An email client that functions like a kanban board.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
@@ -2319,7 +2320,6 @@
 ## python3 
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [tdamdouni/Pythonista](https://github.com/tdamdouni/Pythonista) - Collection of Python Scripts written for Pythonista iOS App
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -2328,7 +2328,7 @@
 
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR toolkits based on PyTorch/MXNet, It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/M
+- [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR Python toolkits based on PyTorch. It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/
 - [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
@@ -2477,6 +2477,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
+## server 
+
+- [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
+
 ## serverless 
 
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
@@ -2607,7 +2611,6 @@
 - [codl/forget](https://github.com/codl/forget) - Continuous post deletion for twitter, mastodon, and misskey
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-- [yihui/twitter-blogdown](https://github.com/yihui/twitter-blogdown) - Fetch Twitter messages weekly and turn them into a website based on blogdown
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [sue445/twittodon](https://github.com/sue445/twittodon) - Search specific tweet and post toot to mastodon
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -2704,7 +2707,7 @@
 
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [davidswelt/zot_bib_web](https://github.com/davidswelt/zot_bib_web) - Create interactive web bibliographies based on Zotero collections
-- [yihui/twitter-blogdown](https://github.com/yihui/twitter-blogdown) - Fetch Twitter messages weekly and turn them into a website based on blogdown
+- [yihui/mastodon-blogdown](https://github.com/yihui/mastodon-blogdown) - Fetch Mastodon messages weekly and turn them into a website based on blogdown
 - [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
 
 ## windows 
