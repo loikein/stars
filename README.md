@@ -17,6 +17,7 @@
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Cython](#cython)
+- [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [GDB](#gdb)
@@ -119,7 +120,6 @@
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
-- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
@@ -191,7 +191,6 @@
 - [fjavieralba/flasky](https://github.com/fjavieralba/flasky) - minimalist pelican theme
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [d2-projects/folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存
-- [bjason/163MusicToSpotify](https://github.com/bjason/163MusicToSpotify) - Convert your favorite 163 music playlist to Spotify
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [filamentgroup/select-css](https://github.com/filamentgroup/select-css) - Cross-browser styles for consistent select element styling
@@ -226,6 +225,10 @@
 
 - [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python. this is a mirror of https://git.sr.ht/~hecanjog/pippi
 
+## Earthly 
+
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
+
 ## Elixir 
 
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
@@ -256,7 +259,6 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [rockagen/cmus-lyric](https://github.com/rockagen/cmus-lyric) - cmus lyric viewer
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
-- [kostic017/plhtml](https://github.com/kostic017/plhtml) - Interpreter for the programming language HTML
 - [weaming/md2png](https://github.com/weaming/md2png) - Render markdown file to PNG image. Support custom CSS URL/file.
 - [LouisYLWang/Sync-Sofa](https://github.com/LouisYLWang/Sync-Sofa) - co-play streaming video with remote friends!
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
@@ -273,7 +275,7 @@
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [yihui/hugo-prose](https://github.com/yihui/hugo-prose) - A Hugo theme derived from the XMin theme, and inspired by Wowchemy, Distill, and tufte.css
 - [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) - A black-white theme for Hugo.
-- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2023中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
+- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 - [bjango/Hugs](https://github.com/bjango/Hugs) - 🤗 A super simple starting point for Hugo websites.
 - [ckissi/responsive-html-email-templates](https://github.com/ckissi/responsive-html-email-templates) - Collection of Free responsive HTML templates for Startups
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
@@ -331,12 +333,11 @@
 - [yihui/hugo-ivy](https://github.com/yihui/hugo-ivy) - A two-column Hugo theme ported from Ivy
 - [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) - PARTY OR DIE
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [spring-raining/CSSLive2D](https://github.com/spring-raining/CSSLive2D) - Rendering Live2D with HTML/CSS!
 - [chriscoyier/Fluid-Width-Video](https://github.com/chriscoyier/Fluid-Width-Video) - That maintains aspect ratio and works with all major video hosts
 - [ad-si/RosettaGit](https://github.com/ad-si/RosettaGit) - Solutions to tasks in over 700 programming languages
@@ -399,14 +400,14 @@
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images.
 - [kanasimi/work_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalke
 - [haroldtreen/epub-press](https://github.com/haroldtreen/epub-press) - 📚 Web service for creating ebooks from collections of websites.
-- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [whacked/zotero-special-tags-column](https://github.com/whacked/zotero-special-tags-column) - Plugin to add a "Special Tags" column into Zotero where you can display specific, pre-defined tags
 - [xaroth8088/random-names](https://github.com/xaroth8088/random-names) - Generate random names for all kinds of things
 - [OU-PhD-Econometrics/fall-2021](https://github.com/OU-PhD-Econometrics/fall-2021) - 
 - [PhaserArray/moodle-tweaks](https://github.com/PhaserArray/moodle-tweaks) - School project. An extension that tweaks my school's Moodle environment, tested using it and https://school.moodledemo.net (versions 3.4 and 3.8.2).
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
 - [zaru/mewcam](https://github.com/zaru/mewcam) - mewcam is an app that allows you to display a camera with a background dropped on the front of your desktop.
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -477,7 +478,7 @@
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [MaggieAppleton/maggieappleton.com](https://github.com/MaggieAppleton/maggieappleton.com) - ⚠️ Now retired. My previous, poorly constructed digital garden built with Gatsby and MDX. Updated garden here: https://github.com/MaggieAppleton/maggieappleton.com-V2
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
-- [crazko/krystal](https://github.com/crazko/krystal) - 📝 TiddlyWiki5 plugin - Horizontal Story River
+- [crazko/krystal](https://github.com/crazko/krystal) - TiddlyWiki5 plugin - Horizontal Story River
 - [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - 
 - [cofinley/free-roam](https://github.com/cofinley/free-roam) - An attempt to recreate the major parts of Roam for offline use
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
@@ -707,7 +708,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## Max 
@@ -778,8 +779,8 @@
 
 ## Others 
 
+- [MY1L/HanItalic](https://github.com/MY1L/HanItalic) - 斜体中文
 - [hiring-lab/job_postings_tracker](https://github.com/hiring-lab/job_postings_tracker) - Regularly updated data series for external use.
-- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [AwesomeVisa/awesome-immigration](https://github.com/AwesomeVisa/awesome-immigration) - An Awesome list of long-term visas
 - [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font) - 「jf open 粉圓」是基於 Kosugi Maru 改作， 由 justfont 設計師針對台灣日常應用加以優化的開源字型。 歡迎大家自由應用、自由調整、自由改作！
 - [theleagueof/fanwood](https://github.com/theleagueof/fanwood) - A serif based on the work of a famous Czech-American type designer of yesteryear.
@@ -808,7 +809,6 @@
 - [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
 - [allenai/cord19](https://github.com/allenai/cord19) - Get started with CORD-19
 - [BlackwinMin/alfred-gallery](https://github.com/BlackwinMin/alfred-gallery) - Original macOS Alfred actions by Minja.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [TheCreeper/PrivacyFox](https://github.com/TheCreeper/PrivacyFox) - PrivacyFox tweaks various preferences in Firefox in order to enhance the privacy of users; it will also try to enforce these changes to maintain your privacy online.
@@ -885,7 +885,6 @@
 - [zhaopengme/gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT that does not require a local GIT environment.
 - [Qingquan-Li/blog](https://github.com/Qingquan-Li/blog) - My Blog
 - [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) - A curated list of awesome TikZ documentations, libraries and resources
-- [airen/CSS3](https://github.com/airen/CSS3) - Illustrated CSS3 Details and Cases
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [notofyi/org](https://github.com/notofyi/org) - Coordinating the development of Noto 2
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -970,7 +969,6 @@
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [bashtage/linearmodels](https://github.com/bashtage/linearmodels) - Additional linear models including instrumental variable and panel data models that are missing from statsmodels.
 - [kelvindecosta/tubby](https://github.com/kelvindecosta/tubby) - :house_with_garden: A utility for the Genshin Impact Housing system
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [shuiqukeyou/E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - 
 - [fabianp/mord](https://github.com/fabianp/mord) - Ordinal regression algorithms
@@ -1156,6 +1154,7 @@
 
 ## Ruby 
 
+- [NomadThanatos/readmoo-dl](https://github.com/NomadThanatos/readmoo-dl) - 
 - [RyanScottLewis/bitbar-bluetooth_inspector](https://github.com/RyanScottLewis/bitbar-bluetooth_inspector) - A Bitbar plugin showing bluetooth information for all connected bluetooth devices using the `system_profiler` binary.
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
@@ -1185,6 +1184,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
@@ -1219,6 +1219,7 @@
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
+- [bjason/163MusicToSpotify](https://github.com/bjason/163MusicToSpotify) - Convert your favorite 163 music playlist to Spotify
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [mastodon/documentation](https://github.com/mastodon/documentation) - Mastodon documentation
 
@@ -1247,6 +1248,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [maxbbraun/pisight](https://github.com/maxbbraun/pisight) - Apple iSight with a Raspberry Pi inside
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [snori74/linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [pimterry/git-confirm](https://github.com/pimterry/git-confirm) - :question: Git hook to catch placeholders and temporary changes (TODO / @ignore) before you commit them.
@@ -1256,6 +1258,7 @@
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [Bilalh/shellmarks](https://github.com/Bilalh/shellmarks) - Directory bookmarks for the shell
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
@@ -1278,6 +1281,7 @@
 
 ## Swift 
 
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [pqrs-org/ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
 - [SlidePilot/SlidePilot-macOS](https://github.com/SlidePilot/SlidePilot-macOS) - Ultimate PDF Presentation Tool for macOS 🖥
 - [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
@@ -1300,11 +1304,11 @@
 - [ashchan/safarikai](https://github.com/ashchan/safarikai) - Safari extension for translating Japanese words.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
-- [Minh-Ton/Control-Center](https://github.com/Minh-Ton/Control-Center) - A replica of the Big Sur Control Center for macOS 10.12 - 10.15.
+- [minh-ton/Control-Center](https://github.com/minh-ton/Control-Center) - A replica of the Big Sur Control Center for macOS 10.12 - 10.15.
 - [kaishin/github-notifications-bitbar](https://github.com/kaishin/github-notifications-bitbar) - A bitbar plugin to show GitHub notifications directly in the macOS menu bar.
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
-- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites
+- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create custom, lightweight macOS apps from websites
 - [zaru/menuffy](https://github.com/zaru/menuffy) - menuffy is a status menu application that allows you to open the menu of the current application at hand.
 - [mzp/OctoEye](https://github.com/mzp/OctoEye) - :octocat: Github viewer for Files.app
 - [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
