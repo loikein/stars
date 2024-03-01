@@ -268,6 +268,7 @@
 
 ## HTML 
 
+- [immoonancient/YTSubtitles](https://github.com/immoonancient/YTSubtitles) - Contribute English subtitles for Chinese Youtubers
 - [ronv/minimalist](https://github.com/ronv/minimalist) - Minimalist is content focused, minimal theme for Hugo
 - [kevinhendricks/ePub3-itizer](https://github.com/kevinhendricks/ePub3-itizer) - Sigil Plugin to convert from valid epub2 to epub3
 - [guangzhengli/hugo-theme-ladder](https://github.com/guangzhengli/hugo-theme-ladder) - A fast, clean Hugo theme | 一个简单而优雅的 hugo 主题
@@ -297,7 +298,6 @@
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 - [BlackwinMin/launchbar-gallery](https://github.com/BlackwinMin/launchbar-gallery) - Original macOS LaunchBar actions by Minja.
-- [vincentarelbundock/modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [HelloGitHub-Team/Article](https://github.com/HelloGitHub-Team/Article) - 讲解开源项目系列文章库
 - [vandread666/GhacksFiles](https://github.com/vandread666/GhacksFiles) - 
@@ -354,7 +354,7 @@
 - [hundredrabbits/Ronin](https://github.com/hundredrabbits/Ronin) - Experimental Graphics Terminal
 - [hundredrabbits/Dotgrid](https://github.com/hundredrabbits/Dotgrid) - Minimalist Vector Tool
 - [codrops/MirrorEffect](https://github.com/codrops/MirrorEffect) - Mirror effect as seen around the Web lately, i.e. on Corentin Fardeau's and Method's website. The idea is to mirror an image and animate it within the context of a slideshow.
-- [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
+- [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [LeaVerou/animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 - [jensimmons/labs.jensimmons.com](https://github.com/jensimmons/labs.jensimmons.com) - The code behind labs.jensimmons.com. Examples are in the /examples/ directory.
 - [surajmandalcell/potato-dark](https://github.com/surajmandalcell/potato-dark) - Dark and elegant blog theme for goHugo static site generator.
@@ -406,7 +406,6 @@
 - [OU-PhD-Econometrics/fall-2021](https://github.com/OU-PhD-Econometrics/fall-2021) - 
 - [PhaserArray/moodle-tweaks](https://github.com/PhaserArray/moodle-tweaks) - School project. An extension that tweaks my school's Moodle environment, tested using it and https://school.moodledemo.net (versions 3.4 and 3.8.2).
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
 - [zaru/mewcam](https://github.com/zaru/mewcam) - mewcam is an app that allows you to display a camera with a background dropped on the front of your desktop.
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
@@ -440,7 +439,7 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
@@ -533,7 +532,7 @@
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [tiansh/wbg](https://github.com/tiansh/wbg) - 目前未更新适配微博V7网页暂不可用；Weibo Batch Genius；火狐扩展，微博相关批量操作，包括个人主页微博下载，删除微博，删除自己的评论
 - [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (NEW FEATURE UPDATES PAUSED.)
-- [samliew/SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts - pull requests welcome
+- [samliew/SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts
 - [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
@@ -584,7 +583,6 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [ProducterTips/producter-book-examples](https://github.com/ProducterTips/producter-book-examples) - All examples in Book Producter http://producter.io
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [vasyop/miniC-hosting](https://github.com/vasyop/miniC-hosting) - A simple stack-based virtual machine that runs C in the browser.
 - [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
@@ -682,7 +680,7 @@
 - [SonoSooS/aaa_vlc](https://github.com/SonoSooS/aaa_vlc) - My VLC plugins for playing music directly off of websites
 - [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 - [andrewodri/iphone-to-macos-camera](https://github.com/andrewodri/iphone-to-macos-camera) - Use your iPhone as webcam/camera in macOS
-- [szymonkaliski/dotfiles](https://github.com/szymonkaliski/dotfiles) - scripts and dotfiles
+- [szymonkaliski/dotfiles](https://github.com/szymonkaliski/dotfiles) - → https://github.com/szymonkaliski/home-configuration
 - [Braden1996/BradensPoon](https://github.com/Braden1996/BradensPoon) - A Hammerspoon configuration for wizards...
 - [fuermosi777/utils](https://github.com/fuermosi777/utils) - Miscellaneous settings / configurations for my workstation
 - [LEOYoon-Tsaw/Rime_collections](https://github.com/LEOYoon-Tsaw/Rime_collections) - All collections for Rime IME
@@ -786,7 +784,7 @@
 - [theleagueof/fanwood](https://github.com/theleagueof/fanwood) - A serif based on the work of a famous Czech-American type designer of yesteryear.
 - [kokdemo/PegBoard](https://github.com/kokdemo/PegBoard) - 轻量、本地的数字白板
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
-- [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
+- [revoltchat/awesome-revolt](https://github.com/revoltchat/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [chinatimeline/data](https://github.com/chinatimeline/data) - 中国政治和社会事件时间线数据仓库 Database for the timeline of political and societal events in China
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [GoneTone/GoneTone](https://github.com/GoneTone/GoneTone) - README.md GitHub profile page
@@ -840,7 +838,6 @@
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [SublimeText/LegacyColorSchemes](https://github.com/SublimeText/LegacyColorSchemes) - Color schemes that were part of Sublime Text 2 and older builds of Sublime Text 3
 - [gonsakon/Learn-Sass-in-90-days](https://github.com/gonsakon/Learn-Sass-in-90-days) - 
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
 - [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) - OCD's Guide to Setting up Mac
@@ -1062,7 +1059,6 @@
 - [Echowxsy/CMPEDUDownload](https://github.com/Echowxsy/CMPEDUDownload) - 机械工业出版社PDF下载器
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [AlanDecode/Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
 - [google/mozc-devices](https://github.com/google/mozc-devices) - Automatically exported from code.google.com/p/mozc-morse
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
@@ -1124,6 +1120,7 @@
 
 - [jmcastagnetto/ggplot2_themes_in_github](https://github.com/jmcastagnetto/ggplot2_themes_in_github) - A generated list of repos containing themes/styles for ggplot2
 - [fragla/eq5d](https://github.com/fragla/eq5d) - 
+- [vincentarelbundock/modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.
 - [OpenMORDM/OpenMORDM](https://github.com/OpenMORDM/OpenMORDM) - OpenMORDM is an open source R library for Multiobjective Robust Decision Making (MORDM)
 - [karthik/wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R
 - [cran/condMVNorm](https://github.com/cran/condMVNorm) - :exclamation: This is a read-only mirror of the CRAN R package repository.  condMVNorm — Conditional Multivariate Normal Distribution
@@ -1216,6 +1213,7 @@
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [bake/solar-theme-hugo](https://github.com/bake/solar-theme-hugo) - A port of solar-theme-ghost for Hugo
 - [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
@@ -1234,7 +1232,7 @@
 ## Shell 
 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
@@ -1281,6 +1279,7 @@
 
 ## Swift 
 
+- [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [pqrs-org/ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
 - [SlidePilot/SlidePilot-macOS](https://github.com/SlidePilot/SlidePilot-macOS) - Ultimate PDF Presentation Tool for macOS 🖥
@@ -1314,7 +1313,7 @@
 - [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
 - [fphilipe/PageExtender.app](https://github.com/fphilipe/PageExtender.app) - Safari extension that injects custom CSS and JS files based on page host.
-- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
+- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro
 - [Kyome22/GitGrass](https://github.com/Kyome22/GitGrass) - GitHub Contributions Checker on the mac menubar.
 - [thompsonate/Shifty](https://github.com/thompsonate/Shifty) - ☀️ A macOS menu bar app that gives you more control over Night Shift.
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
@@ -1369,6 +1368,7 @@
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
 - [yusukebe/r2-image-worker](https://github.com/yusukebe/r2-image-worker) - Store and Deliver images with R2 backend Cloudflare Workers.
 - [404-novel-project/novel-downloader](https://github.com/404-novel-project/novel-downloader) - 一个可扩展的通用型小说下载器。
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login
 - [resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
@@ -1447,6 +1447,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
