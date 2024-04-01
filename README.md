@@ -16,7 +16,6 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
-- [Cython](#cython)
 - [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -79,6 +78,7 @@
 
 ## C 
 
+- [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
 - [Roche/pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [da2x/fluxfonts](https://github.com/da2x/fluxfonts) - A unique tool that blurs your device’s unique font fingerprint by continuously installing and uninstalling new fonts that are generated on the fly.
@@ -109,7 +109,6 @@
 
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [Voine/ChatWaifu_Mobile](https://github.com/Voine/ChatWaifu_Mobile) - 移动版二次元 AI 老婆聊天器
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [mosynthkey/Melissa](https://github.com/mosynthkey/Melissa) - A music player for musical instrument practice
@@ -122,7 +121,7 @@
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [vslavik/poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
@@ -180,7 +179,6 @@
 - [aftertheflood/sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
 - [discourse/hljs-theme-picker](https://github.com/discourse/hljs-theme-picker) - A Discourse theme component that allows you to change the highlight colors used in code blocks
 - [mixu/cssbook](https://github.com/mixu/cssbook) - The book "Learn CSS layout the pedantic way"
-- [adamsilver/maintainablecss.com](https://github.com/adamsilver/maintainablecss.com) - 
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [iainc/iA-Writer-Templates](https://github.com/iainc/iA-Writer-Templates) - Preview, create PDFs, and print documents in your own style with templates in iA Writer.
 - [FriendsOfEpub/WillThatBeOverriden](https://github.com/FriendsOfEpub/WillThatBeOverriden) - 
@@ -221,10 +219,6 @@
 
 - [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 
-## Cython 
-
-- [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python. this is a mirror of https://git.sr.ht/~hecanjog/pippi
-
 ## Earthly 
 
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
@@ -257,7 +251,7 @@
 - [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox) - Search and control Firefox from Alfred
 - [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind) - Alfred workflow to search through my notes and bookmarks
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [rockagen/cmus-lyric](https://github.com/rockagen/cmus-lyric) - cmus lyric viewer
+- [rockstar2046/cmus-lyric](https://github.com/rockstar2046/cmus-lyric) - cmus lyric viewer
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [weaming/md2png](https://github.com/weaming/md2png) - Render markdown file to PNG image. Support custom CSS URL/file.
 - [LouisYLWang/Sync-Sofa](https://github.com/LouisYLWang/Sync-Sofa) - co-play streaming video with remote friends!
@@ -332,7 +326,6 @@
 - [grst/ipymd](https://github.com/grst/ipymd) - Edit Rmarkdown documents in Jupyter notebook
 - [yihui/hugo-ivy](https://github.com/yihui/hugo-ivy) - A two-column Hugo theme ported from Ivy
 - [zzossig/hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) - Make a documentation with hugo zdoc theme!
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) - PARTY OR DIE
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
@@ -447,7 +440,6 @@
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [pearmini/ncovis-2020](https://github.com/pearmini/ncovis-2020) - covid-19 舆论和新闻的可视化平台，获得了中国计算机学会、阿里云和机器之心等举办的疫情可视化比赛铜奖。🔥
 - [hojberg/cssarrowplease](https://github.com/hojberg/cssarrowplease) - Generate CSS tooltip arrows
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [denysdovhan/gitbook-plugin-rss](https://github.com/denysdovhan/gitbook-plugin-rss) - RSS for your gitbook
 - [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge) - 📊 The GitHub action that using repositories Insights/traffic data to generate badges that include views and clones.
 - [MisutaaAsriel/iOS-System-14-Theme](https://github.com/MisutaaAsriel/iOS-System-14-Theme) - Custom Mac OS 8 inspired and based theme for iPhone OS 14
@@ -573,7 +565,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [mathjax/MathJax-third-party-extensions](https://github.com/mathjax/MathJax-third-party-extensions) - A collection of MathJax extensions provided by third-party contributors
-- [bhaskarvk/widgetframe](https://github.com/bhaskarvk/widgetframe) - Embed htmlwidgets in Responsive iframe.
+- [trafficonese/widgetframe](https://github.com/trafficonese/widgetframe) - Embed htmlwidgets in Responsive iframe.
 - [soruly/trace.moe-telegram-bot](https://github.com/soruly/trace.moe-telegram-bot) - This Telegram Bot can tell the anime when you send an screenshot to it
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [unicar9/jizhi](https://github.com/unicar9/jizhi) - A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors
@@ -608,7 +600,6 @@
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [beloglazov/zotero-scholar-citations](https://github.com/beloglazov/zotero-scholar-citations) - Zotero plugin for auto-fetching numbers of citations from Google Scholar
 - [orbitbot/chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [yoshuawuyts/vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
@@ -702,7 +693,6 @@
 - [GordStephen/makesite](https://github.com/GordStephen/makesite) - A minimal makefile template for generating a static website
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [tokotype/Mohave-Typefaces](https://github.com/tokotype/Mohave-Typefaces) - Mohave is a titling display typeface, built in mind with modulated form.
-- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
 
 ## Markdown 
 
@@ -952,7 +942,7 @@
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [KevinPayravi/twitter-archive-to-mastodon](https://github.com/KevinPayravi/twitter-archive-to-mastodon) - 
 - [winkee01/coca-splitter](https://github.com/winkee01/coca-splitter) - 
-- [xxyzz/WordDumb](https://github.com/xxyzz/WordDumb) - A calibre plugin that generates Kindle Word Wise and X-Ray files for KFX, AZW3, MOBI and EPUB eBook. Supports 24 languages.
+- [xxyzz/WordDumb](https://github.com/xxyzz/WordDumb) - A calibre plugin that generates Kindle Word Wise and X-Ray files for KFX, AZW3, MOBI and EPUB eBook.
 - [FriedrichFroebel/ocrodjvu](https://github.com/FriedrichFroebel/ocrodjvu) - OCR for DjVu (Python 3 port)
 - [WankkoRee/eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
 - [zixiiu/Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive.
@@ -960,7 +950,7 @@
 - [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [vindvaki/djvu2pdf](https://github.com/vindvaki/djvu2pdf) - 
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
@@ -1106,7 +1096,6 @@
 - [newsdev/who-the-hill](https://github.com/newsdev/who-the-hill) - Who The Hill: An MMS-based facial recognition service for members of Congress.
 - [CatharsisFonts/Cormorant](https://github.com/CatharsisFonts/Cormorant) - Cormorant open-source display font family
 - [wonderunit/font-wonder-unit](https://github.com/wonderunit/font-wonder-unit) - Free and open source sans-serif font, brought to you by Wonder Unit.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [robwalton/alfred-ulysses-workflow](https://github.com/robwalton/alfred-ulysses-workflow) - Alfred 3 workflow for Ulysses
 - [mrquincle/memoto](https://github.com/mrquincle/memoto) - Hack for Memoto / Narrative Clip lifelong logging camera
 - [benmatselby/sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - 🔍 PHP CodeSniffer, PHP Coding Standard Fixer, Linter, and Mess Detector Support for Sublime Text
@@ -1192,6 +1181,7 @@
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
 
 ## SCSS 
@@ -1213,6 +1203,7 @@
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [bake/solar-theme-hugo](https://github.com/bake/solar-theme-hugo) - A port of solar-theme-ghost for Hugo
 - [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
+- [adamsilver/maintainablecss.com](https://github.com/adamsilver/maintainablecss.com) - 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
@@ -1392,7 +1383,7 @@
 - [jevakallio/vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
+- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
@@ -1403,6 +1394,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [whscullin/apple2js](https://github.com/whscullin/apple2js) - An Apple II emulator originally written in Javascript, now being converted to TypeScript
@@ -1428,6 +1420,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [monferrand/mzettel](https://github.com/monferrand/mzettel) - A vscode extension to make Zettelkasten notes
 - [QiShaoXuan/wavejs](https://github.com/QiShaoXuan/wavejs) - A flexible, configurable animation of wave - 一个灵活的可配置的波浪动画
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
@@ -1453,6 +1446,7 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [Ovilia/2019-typography-calendar](https://github.com/Ovilia/2019-typography-calendar) - 2019 字体日历 App
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
