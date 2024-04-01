@@ -118,6 +118,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -391,7 +392,7 @@
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
 - [bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
-- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
+- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [GitMurf/roam-highlighter](https://github.com/GitMurf/roam-highlighter) - Chrome highlighter that quickly and easily puts your highlights into Roam format for easy pasting into your notes.
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
@@ -470,7 +471,6 @@
 
 ## cpp 
 
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN) - The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。
@@ -613,6 +613,7 @@
 ## documentation 
 
 - [alexander-heimbuch/millidocs](https://github.com/alexander-heimbuch/millidocs) - A simple documentation theme for Jekyll.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -685,7 +686,6 @@
 
 ## emulator 
 
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [whscullin/apple2js](https://github.com/whscullin/apple2js) - An Apple II emulator originally written in Javascript, now being converted to TypeScript
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
@@ -794,6 +794,7 @@
 ## git 
 
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [pimterry/git-confirm](https://github.com/pimterry/git-confirm) - :question: Git hook to catch placeholders and temporary changes (TODO / @ignore) before you commit them.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
@@ -1263,6 +1264,7 @@
 
 ## macos 
 
+- [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [zaru/mewcam](https://github.com/zaru/mewcam) - mewcam is an app that allows you to display a camera with a background dropped on the front of your desktop.
@@ -1355,6 +1357,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [Toniiiio/imageclipr](https://github.com/Toniiiio/imageclipr) - RStudio Addin: Copy Image from Clipboard into RMarkdown .Rmd file
 - [nirname/documentary](https://github.com/nirname/documentary) - Static website compiler with markdown, charts and graphs support
@@ -1441,6 +1444,10 @@
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+
+## natural-language-processing 
+
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 
 ## neovim 
 
@@ -1699,7 +1706,6 @@
 - [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [LeaVerou/duoload](https://github.com/LeaVerou/duoload) - Simple, client-side comparison of website loading behavior
 - [lmparppei/Beat](https://github.com/lmparppei/Beat) - Beat - a simple and elegant screenwriting app for macOS
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [denysdovhan/gitbook-plugin-rss](https://github.com/denysdovhan/gitbook-plugin-rss) - RSS for your gitbook
 - [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge) - 📊 The GitHub action that using repositories Insights/traffic data to generate badges that include views and clones.
 - [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
@@ -1727,7 +1733,6 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [HelloGitHub-Team/Article](https://github.com/HelloGitHub-Team/Article) - 讲解开源项目系列文章库
 - [nocomplexity/ArchitecturePlaybook](https://github.com/nocomplexity/ArchitecturePlaybook) - The Open Architecture Playbook. Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work!
-- [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python. this is a mirror of https://git.sr.ht/~hecanjog/pippi
 - [eliben/js-8080-sim](https://github.com/eliben/js-8080-sim) - Intel 8080 assembler and simulator in JS, optimized for simplicity.
 - [taikii/whiteplain](https://github.com/taikii/whiteplain) - Simple and Functional Hugo theme.
 - [sdan/gradient](https://github.com/sdan/gradient) - multicolor gradients for all
@@ -1861,7 +1866,7 @@
 - [hail2u/drawic](https://github.com/hail2u/drawic) - A small set of SVG social icons
 - [ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font) - A free font family derived from Source Han Sans.
 - [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，LLaMA等模型应用在纠错场景，开箱即用。
-- [rockagen/cmus-lyric](https://github.com/rockagen/cmus-lyric) - cmus lyric viewer
+- [rockstar2046/cmus-lyric](https://github.com/rockstar2046/cmus-lyric) - cmus lyric viewer
 - [ma11hew28/gem_uninstall_r](https://github.com/ma11hew28/gem_uninstall_r) - gem uninstall dependency recursive
 - [Zettelkasten-Method/10000-markdown-files](https://github.com/Zettelkasten-Method/10000-markdown-files) - 10,000 markdown files. Useful for stress testing note-taking tools.
 - [monferrand/mzettel](https://github.com/monferrand/mzettel) - A vscode extension to make Zettelkasten notes
@@ -1970,7 +1975,7 @@
 - [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [jjgod/mac-dictionary-kit](https://github.com/jjgod/mac-dictionary-kit) - Dictionary conversion tool for Mac OS X 10.5 and above
 - [insidegui/AnimojiStudio](https://github.com/insidegui/AnimojiStudio) - Make cute emoji videos with unlimited duration and share anywhere (iPhone X, XS and XS Max only!)
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [rodydavis/vscode_ipad](https://github.com/rodydavis/vscode_ipad) - An Attempt to Port VSCode to the iPad with Flutter.io
 - [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [selimb/cookiecutter-latex-article](https://github.com/selimb/cookiecutter-latex-article) - Cookiecutter template for LaTeX article.
@@ -2048,7 +2053,6 @@
 - [starFalll/Spider](https://github.com/starFalll/Spider) - 新浪微博爬虫(Sina weibo spider)，百度搜索结果 爬虫
 - [zengyu714/weibot](https://github.com/zengyu714/weibot) - 自动发微博脚本，用户名密码模拟登录
 - [zengyu714/weibo-backup](https://github.com/zengyu714/weibo-backup) - Simple scripts to backup micro blog to html
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
 - [doubanius/doubanius-tertius](https://github.com/doubanius/doubanius-tertius) - 
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
@@ -2056,7 +2060,7 @@
 - [richie5um/TextBar-Recipes](https://github.com/richie5um/TextBar-Recipes) - TextBar Recipes
 - [gambitproject/gte](https://github.com/gambitproject/gte) - Game Theory Explorer:  Build, explore and solve extensive form games.
 - [mathjax/MathJax-third-party-extensions](https://github.com/mathjax/MathJax-third-party-extensions) - A collection of MathJax extensions provided by third-party contributors
-- [bhaskarvk/widgetframe](https://github.com/bhaskarvk/widgetframe) - Embed htmlwidgets in Responsive iframe.
+- [trafficonese/widgetframe](https://github.com/trafficonese/widgetframe) - Embed htmlwidgets in Responsive iframe.
 - [soruly/trace.moe-telegram-bot](https://github.com/soruly/trace.moe-telegram-bot) - This Telegram Bot can tell the anime when you send an screenshot to it
 - [BlackwinMin/shortcuts-actions-gallery](https://github.com/BlackwinMin/shortcuts-actions-gallery) - Original Shortcut Actions craft by Minja.
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
@@ -2154,7 +2158,6 @@
 - [k2jp/abp-japanese-filters](https://github.com/k2jp/abp-japanese-filters) - 
 - [tokotype/Mohave-Typefaces](https://github.com/tokotype/Mohave-Typefaces) - Mohave is a titling display typeface, built in mind with modulated form.
 - [CatharsisFonts/Cormorant](https://github.com/CatharsisFonts/Cormorant) - Cormorant open-source display font family
-- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 - [neolee/SCU](https://github.com/neolee/SCU) - SCU (Squirrel 配置工具)
 - [yisibl/emmet-plus](https://github.com/yisibl/emmet-plus) - Emmet plus 让 Emmet 更强大
@@ -2280,11 +2283,11 @@
 - [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 - [GZhonghui/NotabilityViewer](https://github.com/GZhonghui/NotabilityViewer) - Open and View your Notability note file (*.note) on Windows
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
-- [xxyzz/WordDumb](https://github.com/xxyzz/WordDumb) - A calibre plugin that generates Kindle Word Wise and X-Ray files for KFX, AZW3, MOBI and EPUB eBook. Supports 24 languages.
+- [xxyzz/WordDumb](https://github.com/xxyzz/WordDumb) - A calibre plugin that generates Kindle Word Wise and X-Ray files for KFX, AZW3, MOBI and EPUB eBook.
 - [WankkoRee/eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
 - [coloria-dev/coloria](https://github.com/coloria-dev/coloria) - :rainbow: Tools for color research
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [Roche/pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
@@ -2584,7 +2587,7 @@
 ## telegram 
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Liryna/FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
 - [AlexR1712/messenger-to-telegram](https://github.com/AlexR1712/messenger-to-telegram) - Connect your Facebook Messenger Account to your Telegram Messenger and Erase the Messenger App
 - [fwolf/awesome-telegram-bot](https://github.com/fwolf/awesome-telegram-bot) - Manual picked bot of Telegram.
@@ -2629,7 +2632,7 @@
 - [codl/forget](https://github.com/codl/forget) - Continuous post deletion for twitter, mastodon, and misskey
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [sue445/twittodon](https://github.com/sue445/twittodon) - Search specific tweet and post toot to mastodon
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
