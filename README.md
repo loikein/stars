@@ -78,6 +78,7 @@
 
 ## C 
 
+- [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.13+
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
 - [Roche/pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
@@ -767,6 +768,8 @@
 
 ## Others 
 
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [Dictionaryphile/All_Dictionaries](https://github.com/Dictionaryphile/All_Dictionaries) - 宇宙最全在线词典网站导航
 - [MY1L/HanItalic](https://github.com/MY1L/HanItalic) - 斜体中文
 - [hiring-lab/job_postings_tracker](https://github.com/hiring-lab/job_postings_tracker) - Regularly updated data series for external use.
 - [AwesomeVisa/awesome-immigration](https://github.com/AwesomeVisa/awesome-immigration) - An Awesome list of long-term visas
@@ -841,7 +844,7 @@
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
 - [Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era](https://github.com/Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era) - 数字极权时代生存手记 https://git.io/JtbpR
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [rmcrackan/inAudible](https://github.com/rmcrackan/inAudible) - inAudible installers
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020) - 新型冠状病毒防疫信息收集平台
@@ -936,6 +939,8 @@
 
 ## Python 
 
+- [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
+- [olety/epwing2kindle](https://github.com/olety/epwing2kindle) - Converting EPWING dictionaries into something you can actually use (mobi)
 - [rasbt/watermark](https://github.com/rasbt/watermark) - An IPython magic extension for printing date and time stamps, version numbers, and hardware information
 - [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 - [GZhonghui/NotabilityViewer](https://github.com/GZhonghui/NotabilityViewer) - Open and View your Notability note file (*.note) on Windows
@@ -1257,7 +1262,6 @@
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
 - [chaneyzorn/dotfiles](https://github.com/chaneyzorn/dotfiles) - 使用 GNU Stow 管理的 linux 配置文件.
 - [richie5um/TextBar-Recipes](https://github.com/richie5um/TextBar-Recipes) - TextBar Recipes
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [bjango/Bjango-Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
 - [renkun-ken/pipeR-tutorial](https://github.com/renkun-ken/pipeR-tutorial) - A tutorial for pipeR package
 - [dharmatype/Sometype-Mono](https://github.com/dharmatype/Sometype-Mono) - Sometype Mono / Monospaced font
@@ -1293,7 +1297,7 @@
 - [Pictarine/macos-snippets](https://github.com/Pictarine/macos-snippets) - Snip is a lightweight snippets manager app for macOS
 - [ashchan/safarikai](https://github.com/ashchan/safarikai) - Safari extension for translating Japanese words.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [minh-ton/Control-Center](https://github.com/minh-ton/Control-Center) - A replica of the Big Sur Control Center for macOS 10.12 - 10.15.
 - [kaishin/github-notifications-bitbar](https://github.com/kaishin/github-notifications-bitbar) - A bitbar plugin to show GitHub notifications directly in the macOS menu bar.
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
@@ -1355,6 +1359,7 @@
 
 ## TypeScript 
 
+- [Candinya/full-stack-in-7-days](https://github.com/Candinya/full-stack-in-7-days) - ⚡ 7天全栈计划
 - [slotDumpling/multibility](https://github.com/slotDumpling/multibility) - Collaborative notes and PDF annotations / 协同笔记与PDF批注
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
 - [yusukebe/r2-image-worker](https://github.com/yusukebe/r2-image-worker) - Store and Deliver images with R2 backend Cloudflare Workers.
@@ -1438,7 +1443,6 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
