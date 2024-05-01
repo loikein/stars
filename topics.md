@@ -75,6 +75,7 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [homebrew](#homebrew)
@@ -448,7 +449,7 @@
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
@@ -483,6 +484,7 @@
 
 ## css 
 
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
@@ -565,7 +567,7 @@
 
 ## database 
 
-- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## deep-learning 
@@ -607,11 +609,11 @@
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
-- [alexwlchan/alexwlchan.net](https://github.com/alexwlchan/alexwlchan.net) - Source code and plugins for my website, a static site built with Jekyll
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 
 ## documentation 
 
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [alexander-heimbuch/millidocs](https://github.com/alexander-heimbuch/millidocs) - A simple documentation theme for Jekyll.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -800,7 +802,7 @@
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -858,6 +860,10 @@
 - [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+## hacking-tools 
+
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 
 ## hacktoberfest 
 
@@ -930,6 +936,7 @@
 
 ## html 
 
+- [olety/epwing2kindle](https://github.com/olety/epwing2kindle) - Converting EPWING dictionaries into something you can actually use (mobi)
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1112,6 +1119,7 @@
 
 ## json 
 
+- [olety/epwing2kindle](https://github.com/olety/epwing2kindle) - Converting EPWING dictionaries into something you can actually use (mobi)
 - [nsbgn/pandoc.mk](https://github.com/nsbgn/pandoc.mk) - Simple PDF & static website generation using `make`, `jq` and `pandoc`.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
@@ -1154,6 +1162,7 @@
 
 ## latex 
 
+- [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [gijs-pennings/latex-homework](https://github.com/gijs-pennings/latex-homework) - LaTeX class for homework assignments
 - [jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I used as the base for all my homework in university.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
@@ -1349,6 +1358,7 @@
 
 ## markdown 
 
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
 - [ozntel/oz-image-in-editor-obsidian](https://github.com/ozntel/oz-image-in-editor-obsidian) - This Obsidian plugin to view Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -1382,7 +1392,6 @@
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
-- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -1529,7 +1538,7 @@
 
 ## operating-system 
 
-- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 
 ## osint 
 
@@ -1538,6 +1547,9 @@
 
 ## others 
 
+- [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
+- [Candinya/full-stack-in-7-days](https://github.com/Candinya/full-stack-in-7-days) - ⚡ 7天全栈计划
+- [Dictionaryphile/All_Dictionaries](https://github.com/Dictionaryphile/All_Dictionaries) - 宇宙最全在线词典网站导航
 - [immoonancient/YTSubtitles](https://github.com/immoonancient/YTSubtitles) - Contribute English subtitles for Chinese Youtubers
 - [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
 - [NomadThanatos/readmoo-dl](https://github.com/NomadThanatos/readmoo-dl) - 
@@ -1756,7 +1768,7 @@
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [huhuhang/apple-watch-awards](https://github.com/huhuhang/apple-watch-awards) - ⌚️ APPLE WATCH LIMITED EDITIONS AWARDS
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
@@ -2068,7 +2080,6 @@
 - [LearnShare/Learning-Markdown](https://github.com/LearnShare/Learning-Markdown) - Markdown guidance and reference(Markdown 入门参考)
 - [ProducterTips/producter-book-examples](https://github.com/ProducterTips/producter-book-examples) - All examples in Book Producter http://producter.io
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
 - [lucagez/Debucsser](https://github.com/lucagez/Debucsser) - CSS debugging tool with an unpronounceable name
@@ -2314,7 +2325,7 @@
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN) - The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。
 - [firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
-- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
 - [AlanDecode/Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -2455,6 +2466,7 @@
 
 ## rust 
 
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
