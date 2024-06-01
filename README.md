@@ -141,6 +141,7 @@
 
 ## CSS 
 
+- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 - [Metastem/wikiless](https://github.com/Metastem/wikiless) - A free open source alternative Wikipedia front-end focused on privacy.
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
@@ -263,6 +264,7 @@
 
 ## HTML 
 
+- [g-hanwen/hugo-theme-nostyleplease](https://github.com/g-hanwen/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
 - [immoonancient/YTSubtitles](https://github.com/immoonancient/YTSubtitles) - Contribute English subtitles for Chinese Youtubers
 - [ronv/minimalist](https://github.com/ronv/minimalist) - Minimalist is content focused, minimal theme for Hugo
 - [kevinhendricks/ePub3-itizer](https://github.com/kevinhendricks/ePub3-itizer) - Sigil Plugin to convert from valid epub2 to epub3
@@ -388,6 +390,7 @@
 
 ## JavaScript 
 
+- [sumimakito/hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) - Rediscover the beauty of typography.
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [PeggyZWY/flowstate-webapp](https://github.com/PeggyZWY/flowstate-webapp) - WebApp for Flowstate
 - [KaneCohen/modal-vanilla](https://github.com/KaneCohen/modal-vanilla) - Modal popup written in raw (vanilla) JavaScript.
@@ -400,7 +403,7 @@
 - [OU-PhD-Econometrics/fall-2021](https://github.com/OU-PhD-Econometrics/fall-2021) - 
 - [PhaserArray/moodle-tweaks](https://github.com/PhaserArray/moodle-tweaks) - School project. An extension that tweaks my school's Moodle environment, tested using it and https://school.moodledemo.net (versions 3.4 and 3.8.2).
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
 - [zaru/mewcam](https://github.com/zaru/mewcam) - mewcam is an app that allows you to display a camera with a background dropped on the front of your desktop.
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -524,7 +527,7 @@
 - [jiacai2050/gooreplacer](https://github.com/jiacai2050/gooreplacer) - ⚡️⚡️A browser extension to modify HTTP requests :-)
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [tiansh/wbg](https://github.com/tiansh/wbg) - 目前未更新适配微博V7网页暂不可用；Weibo Batch Genius；火狐扩展，微博相关批量操作，包括个人主页微博下载，删除微博，删除自己的评论
-- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (NEW FEATURE UPDATES PAUSED.)
+- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (NEW UPDATES PAUSED.)
 - [samliew/SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts
 - [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
@@ -613,7 +616,6 @@
 - [dutiyesh/devtodo](https://github.com/dutiyesh/devtodo) - 📝 To-do list for Chrome Developer Tools
 - [Terrance/Homely](https://github.com/Terrance/Homely) - A New Tab page replacement for Google Chrome with custom links and bookmarks/history components.
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
-- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [rstudio/leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps
 - [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 - [rstudio/dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs
@@ -832,7 +834,6 @@
 - [SublimeText/LegacyColorSchemes](https://github.com/SublimeText/LegacyColorSchemes) - Color schemes that were part of Sublime Text 2 and older builds of Sublime Text 3
 - [gonsakon/Learn-Sass-in-90-days](https://github.com/gonsakon/Learn-Sass-in-90-days) - 
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
-- [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
 - [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) - OCD's Guide to Setting up Mac
 - [tofukko/filter](https://github.com/tofukko/filter) - 
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -841,6 +842,7 @@
 - [Hackl0us/AdBlock-Rules-Mirror](https://github.com/Hackl0us/AdBlock-Rules-Mirror) - An elegant way to speed up updating Ads Block Rules.
 - [Feb27HistoryMoment/XiaoZhanGate](https://github.com/Feb27HistoryMoment/XiaoZhanGate) - Archive of the history moment
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
+- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
 - [Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era](https://github.com/Luterngun/Record_of_Survival_in_Digital_Totalitarian_Era) - 数字极权时代生存手记 https://git.io/JtbpR
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
@@ -1051,7 +1053,7 @@
 - [renerocksai/sublime_zk](https://github.com/renerocksai/sublime_zk) - A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note tr
 - [mhasbini/gmail_analyzer](https://github.com/mhasbini/gmail_analyzer) - Show statistics of your Gmail account
 - [yingziwu/archive_bot](https://github.com/yingziwu/archive_bot) - 
-- [Echowxsy/CMPEDUDownload](https://github.com/Echowxsy/CMPEDUDownload) - 机械工业出版社PDF下载器
+- [echowxsy/CMPEDUDownload](https://github.com/echowxsy/CMPEDUDownload) - 机械工业出版社PDF下载器
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [AlanDecode/Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
@@ -1084,7 +1086,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [JimSunJing/douban_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [tsaiid/PopClip-Extensions](https://github.com/tsaiid/PopClip-Extensions) - 
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [flashlizi/cssrem](https://github.com/flashlizi/cssrem) - 一个CSS值转REM的Sublime Text插件
@@ -1149,13 +1151,12 @@
 - [RyanScottLewis/bitbar-bluetooth_inspector](https://github.com/RyanScottLewis/bitbar-bluetooth_inspector) - A Bitbar plugin showing bluetooth information for all connected bluetooth devices using the `system_profiler` binary.
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
-- [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
+- [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [jeffreywildman/homebrew-virt-manager](https://github.com/jeffreywildman/homebrew-virt-manager) - A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX
 - [ma11hew28/gem_uninstall_r](https://github.com/ma11hew28/gem_uninstall_r) - gem uninstall dependency recursive
 - [vbyazilim/ghstars](https://github.com/vbyazilim/ghstars) - Show your public GitHub repositories stars count
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [toddwschneider/nyc-subway-turnstile-data](https://github.com/toddwschneider/nyc-subway-turnstile-data) - NYC Subway Turnstile Data
-- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 - [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
@@ -1191,6 +1192,7 @@
 
 ## SCSS 
 
+- [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -1397,7 +1399,7 @@
 - [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
