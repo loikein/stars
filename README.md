@@ -16,6 +16,7 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
+- [Dockerfile](#dockerfile)
 - [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -24,6 +25,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -83,7 +85,6 @@
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
 - [Roche/pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [da2x/fluxfonts](https://github.com/da2x/fluxfonts) - A unique tool that blurs your device’s unique font fingerprint by continuously installing and uninstalling new fonts that are generated on the fly.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [jaiminpan/pg_jieba](https://github.com/jaiminpan/pg_jieba) - Postgresql full-text search extension for chinese
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -141,6 +142,8 @@
 
 ## CSS 
 
+- [lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery) - A zero setup masonry image gallery for Obsidian
+- [madebymany/css-patterns](https://github.com/madebymany/css-patterns) - 
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 - [Metastem/wikiless](https://github.com/Metastem/wikiless) - A free open source alternative Wikipedia front-end focused on privacy.
@@ -187,7 +190,7 @@
 - [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
 - [XIJINIAN/weibo_v6](https://github.com/XIJINIAN/weibo_v6) - 适用于 Stylus 等插件的微博美化样式
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
-- [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。
+- [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
 - [fjavieralba/flasky](https://github.com/fjavieralba/flasky) - minimalist pelican theme
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [d2-projects/folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存
@@ -220,6 +223,10 @@
 ## Common Lisp 
 
 - [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+
+## Dockerfile 
+
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Earthly 
 
@@ -371,8 +378,13 @@
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
+- [LavenderSnek/ShimejiEE-cross-platform](https://github.com/LavenderSnek/ShimejiEE-cross-platform) - ShimejiEE on mac
 - [nodebox/nodebox](https://github.com/nodebox/nodebox) - Node-based data application for visualization and generative design
 - [benfry/processing4](https://github.com/benfry/processing4) - Processing 4.x releases for Java 17
 - [heartsome/translationstudio8](https://github.com/heartsome/translationstudio8) - Heartsome Translation Studio 8.0
@@ -390,6 +402,8 @@
 
 ## JavaScript 
 
+- [linyuxuanlin/Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio) - 一个简单的瀑布流摄影作品展示站，图片储存在免费的 Cloudflare R2
+- [Coxxs/twOpenOriginalImage](https://github.com/Coxxs/twOpenOriginalImage) - 
 - [sumimakito/hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) - Rediscover the beauty of typography.
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [PeggyZWY/flowstate-webapp](https://github.com/PeggyZWY/flowstate-webapp) - WebApp for Flowstate
@@ -403,7 +417,7 @@
 - [OU-PhD-Econometrics/fall-2021](https://github.com/OU-PhD-Econometrics/fall-2021) - 
 - [PhaserArray/moodle-tweaks](https://github.com/PhaserArray/moodle-tweaks) - School project. An extension that tweaks my school's Moodle environment, tested using it and https://school.moodledemo.net (versions 3.4 and 3.8.2).
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 пользовательских скриптов
 - [zaru/mewcam](https://github.com/zaru/mewcam) - mewcam is an app that allows you to display a camera with a background dropped on the front of your desktop.
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -420,6 +434,7 @@
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [kovart/sticksy](https://github.com/kovart/sticksy) - 🧲 Blazing fast sticky widgets in one line! (Sidebar friendly)
 - [rgalus/sticky-js](https://github.com/rgalus/sticky-js) - Library for sticky elements written in vanilla javascript
@@ -623,7 +638,7 @@
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
-- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
+- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 - [Anyway-FM/Anyway.Data](https://github.com/Anyway-FM/Anyway.Data) - 来自 Anyway.Design 的 Sketch 数据包，包含国内地址、中国人名和亚洲人头像
 - [googlearchive/code-prettify](https://github.com/googlearchive/code-prettify) - An embeddable script that makes source-code snippets in HTML prettier.
 - [Liryna/FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
@@ -631,7 +646,7 @@
 - [sym233/core-values-encoder](https://github.com/sym233/core-values-encoder) - Translating text to core values and back
 - [kritollm/chrome-extension-api-for-safari-and-firefox](https://github.com/kritollm/chrome-extension-api-for-safari-and-firefox) - Create extensions for Chrome, Safari, Firefox (and Opera) with the same source code.
 - [CSSLint/csslint](https://github.com/CSSLint/csslint) - Automated linting of Cascading Stylesheets
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [idf/LaTeX2Word-Equation](https://github.com/idf/LaTeX2Word-Equation) - Copy LaTeX Equations as Word Equations, a Chrome Extension
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
@@ -699,7 +714,6 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## Max 
@@ -806,10 +820,10 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [TheCreeper/PrivacyFox](https://github.com/TheCreeper/PrivacyFox) - PrivacyFox tweaks various preferences in Firefox in order to enhance the privacy of users; it will also try to enforce these changes to maintain your privacy online.
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [teenyicons/teenyicons](https://github.com/teenyicons/teenyicons) - Tiny minimal 1px icons designed to fit in the smallest places.
 - [scateu/TuinkPad](https://github.com/scateu/TuinkPad) - Full open source mobile terminal device with e-ink screen, physical keyboard and long battery life, suitable for Linux system administrators, and Linux users.
-- [shuziyimin/blog.shuziyimin.org](https://github.com/shuziyimin/blog.shuziyimin.org) - A non-profit media project to help people in mainland China to gain more digital freedom
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [ollef/mirrored-keyboard-layouts](https://github.com/ollef/mirrored-keyboard-layouts) - Mirrored XKB layouts for one-handed typing
 - [rxhanson/Middle-Community](https://github.com/rxhanson/Middle-Community) - Discussion, Bugs, and Localization for the Middle app (for macOS middle clicking)
@@ -923,7 +937,6 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [reycn/full-text-rss](https://github.com/reycn/full-text-rss) - [Updated and moded] Full-Text RSS can transform partial feeds to deliver the full content stripped of clutter and ads
-- [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
 - [fengchang/readhub-rss](https://github.com/fengchang/readhub-rss) - Subscribe Readhub.me through RSS
 - [ybourque/Wikparser](https://github.com/ybourque/Wikparser) - Wiktionary Parser
 - [MathHubInfo/Legacy-planetary](https://github.com/MathHubInfo/Legacy-planetary) - Legacy: Planetary System is a math-enabled Web 3.0 information portal.
@@ -988,7 +1001,6 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [python-twitter-tools/twitter](https://github.com/python-twitter-tools/twitter) - Python Twitter API
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [PirateBox-Dev/PirateBoxScripts_Webserver](https://github.com/PirateBox-Dev/PirateBoxScripts_Webserver) - PirateBox Scriptcollection for running in Webserver
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -1230,7 +1242,6 @@
 ## Shell 
 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
@@ -1361,6 +1372,8 @@
 
 ## TypeScript 
 
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
+- [james-elicx/cloudy](https://github.com/james-elicx/cloudy) - File explorer for Cloudflare R2 Storage.
 - [Candinya/full-stack-in-7-days](https://github.com/Candinya/full-stack-in-7-days) - ⚡ 7天全栈计划
 - [slotDumpling/multibility](https://github.com/slotDumpling/multibility) - Collaborative notes and PDF annotations / 协同笔记与PDF批注
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
@@ -1480,6 +1493,9 @@
 
 ## Vue 
 
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
+- [roimdev/roim-picx](https://github.com/roimdev/roim-picx) - free image service based on cloudflare Pages & R2.基于CloudFlare Pages和R2实现的免费图床。
+- [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) - Web Interface for Cloudflare R2
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
