@@ -85,6 +85,7 @@
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
 - [Roche/pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [da2x/fluxfonts](https://github.com/da2x/fluxfonts) - A unique tool that blurs your device’s unique font fingerprint by continuously installing and uninstalling new fonts that are generated on the fly.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [jaiminpan/pg_jieba](https://github.com/jaiminpan/pg_jieba) - Postgresql full-text search extension for chinese
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -211,7 +212,7 @@
 ## Clojure 
 
 - [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
-- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [witch-house/pronoun.is](https://github.com/witch-house/pronoun.is) - Show people how to use pronouns!
 
@@ -302,6 +303,7 @@
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 - [BlackwinMin/launchbar-gallery](https://github.com/BlackwinMin/launchbar-gallery) - Original macOS LaunchBar actions by Minja.
+- [vincentarelbundock/modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [HelloGitHub-Team/Article](https://github.com/HelloGitHub-Team/Article) - 讲解开源项目系列文章库
 - [vandread666/GhacksFiles](https://github.com/vandread666/GhacksFiles) - 
@@ -417,7 +419,7 @@
 - [OU-PhD-Econometrics/fall-2021](https://github.com/OU-PhD-Econometrics/fall-2021) - 
 - [PhaserArray/moodle-tweaks](https://github.com/PhaserArray/moodle-tweaks) - School project. An extension that tweaks my school's Moodle environment, tested using it and https://school.moodledemo.net (versions 3.4 and 3.8.2).
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 пользовательских скриптов
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集
 - [zaru/mewcam](https://github.com/zaru/mewcam) - mewcam is an app that allows you to display a camera with a background dropped on the front of your desktop.
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -434,7 +436,6 @@
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [kovart/sticksy](https://github.com/kovart/sticksy) - 🧲 Blazing fast sticky widgets in one line! (Sidebar friendly)
 - [rgalus/sticky-js](https://github.com/rgalus/sticky-js) - Library for sticky elements written in vanilla javascript
@@ -452,7 +453,7 @@
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
-- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
+- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [eugenkiss/7guis](https://github.com/eugenkiss/7guis) - 7GUIs is a GUI programming usability benchmark.
@@ -484,7 +485,6 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [MaggieAppleton/maggieappleton.com](https://github.com/MaggieAppleton/maggieappleton.com) - ⚠️ Now retired. My previous, poorly constructed digital garden built with Gatsby and MDX. Updated garden here: https://github.com/MaggieAppleton/maggieappleton.com-V2
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
@@ -496,7 +496,6 @@
 - [maximilian-sprengholz/zotero-report-html-chunks](https://github.com/maximilian-sprengholz/zotero-report-html-chunks) - Generate within-body HTML chunks from Zotero bibliography items for further processing (e.g. styling via CSS, applying JS filter possibilities) to create customized web-based reports
 - [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [vvksh/simple-blogger](https://github.com/vvksh/simple-blogger) - Blog generator based on github projects with mathjax support
 - [gaggle/repo-lister](https://github.com/gaggle/repo-lister) - React-based offline repository overview
 - [lukejacksonn/GreedyNav](https://github.com/lukejacksonn/GreedyNav) - A responsive navigation menu that stacks items into a dropdown menu when they overflow
@@ -747,7 +746,6 @@
 - [gechr/WhichSpace](https://github.com/gechr/WhichSpace) - 🖥  Active space menu bar icon for macOS 10.11+
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [w0lfschild/moreMenu](https://github.com/w0lfschild/moreMenu) - 👉 It's my menu and I need it now!
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please check out Dash for macOS instead.
 - [samuelclay/turntouch-mac](https://github.com/samuelclay/turntouch-mac) - Turn Touch Mac app
@@ -836,7 +834,7 @@
 - [Natchamon/RoamReseachTheme](https://github.com/Natchamon/RoamReseachTheme) - Roam Research theme
 - [twostraws/wwdc](https://github.com/twostraws/wwdc) - WWDC Community: Learning and sharing together
 - [frameworkless-movement/manifesto](https://github.com/frameworkless-movement/manifesto) - The Frameworkless Movement Manifesto
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [rstacruz/rscss](https://github.com/rstacruz/rscss) - Reasonable System for CSS Stylesheet Structure
 - [edent/Dynamic-SVG-Calendar-Icon](https://github.com/edent/Dynamic-SVG-Calendar-Icon) - Here it is, an SVG calendar which always display's today's date.
 - [gboehl/macro_puzzles](https://github.com/gboehl/macro_puzzles) - Collection of puzzles in macroeconomics
@@ -1013,6 +1011,7 @@
 - [EconForge/interpolation.py](https://github.com/EconForge/interpolation.py) - 
 - [EconForge/dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+- [simonw/simonwillisonblog](https://github.com/simonw/simonwillisonblog) - The source code behind my blog
 - [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 - [perkinsben/obs_tools](https://github.com/perkinsben/obs_tools) - Various python tools/scripts to work with Obsidian data
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1034,7 +1033,7 @@
 - [fniephaus/alfred-homebrew](https://github.com/fniephaus/alfred-homebrew) - Easily control Homebrew with Alfred
 - [rhydlewis/search-omnifocus](https://github.com/rhydlewis/search-omnifocus) - Alfred workflow that allows free text searching of OmniFocus tasks
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [codl/forget](https://github.com/codl/forget) - Continuous post deletion for twitter, mastodon, and misskey
 - [kensanata/mastodon-archive](https://github.com/kensanata/mastodon-archive) - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
@@ -1086,7 +1085,6 @@
 - [randy3k/SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, Terminus; R (RStudio), Julia, IPython.
 - [sschuhmann/Helium](https://github.com/sschuhmann/Helium) - Let Sublime Text 3 talk with Jupyter.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [OpenSourceEconomics/econ-project-templates](https://github.com/OpenSourceEconomics/econ-project-templates) - Templates for reproducible economics projects
 - [sky-music/sky-python-music-sheet-maker](https://github.com/sky-music/sky-python-music-sheet-maker) - Make visual music sheets for thatskygame (graphical representations of the Sky keyboard)
 - [KUR-creative/SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) - Manga/Comics Translation Helper Tool
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
@@ -1128,7 +1126,6 @@
 
 - [jmcastagnetto/ggplot2_themes_in_github](https://github.com/jmcastagnetto/ggplot2_themes_in_github) - A generated list of repos containing themes/styles for ggplot2
 - [fragla/eq5d](https://github.com/fragla/eq5d) - 
-- [vincentarelbundock/modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.
 - [OpenMORDM/OpenMORDM](https://github.com/OpenMORDM/OpenMORDM) - OpenMORDM is an open source R library for Multiobjective Robust Decision Making (MORDM)
 - [karthik/wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R
 - [cran/condMVNorm](https://github.com/cran/condMVNorm) - :exclamation: This is a read-only mirror of the CRAN R package repository.  condMVNorm — Conditional Multivariate Normal Distribution
@@ -1169,6 +1166,7 @@
 - [vbyazilim/ghstars](https://github.com/vbyazilim/ghstars) - Show your public GitHub repositories stars count
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [toddwschneider/nyc-subway-turnstile-data](https://github.com/toddwschneider/nyc-subway-turnstile-data) - NYC Subway Turnstile Data
+- [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
@@ -1365,6 +1363,7 @@
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [selimb/cookiecutter-latex-article](https://github.com/selimb/cookiecutter-latex-article) - Cookiecutter template for LaTeX article.
 - [emptymalei/sci2fi](https://github.com/emptymalei/sci2fi) - :seedling: 从科学到科幻
+- [OpenSourceEconomics/econ-project-templates](https://github.com/OpenSourceEconomics/econ-project-templates) - Templates for reproducible economics projects
 - [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk) - Modern LaTeX in a Nutshell
 - [Hansimov/pgfmanual-zh](https://github.com/Hansimov/pgfmanual-zh) - PGF/TikZ 中文手册
 - [wshuyi/demo-batch-markdown-to-pdf](https://github.com/wshuyi/demo-batch-markdown-to-pdf) - 
@@ -1372,12 +1371,14 @@
 
 ## TypeScript 
 
+- [PKM-er/obsidian-floating-toc-plugin](https://github.com/PKM-er/obsidian-floating-toc-plugin) - 
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) - File explorer for Cloudflare R2 Storage.
 - [Candinya/full-stack-in-7-days](https://github.com/Candinya/full-stack-in-7-days) - ⚡ 7天全栈计划
 - [slotDumpling/multibility](https://github.com/slotDumpling/multibility) - Collaborative notes and PDF annotations / 协同笔记与PDF批注
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
 - [yusukebe/r2-image-worker](https://github.com/yusukebe/r2-image-worker) - Store and Deliver images with R2 backend Cloudflare Workers.
+- [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
 - [404-novel-project/novel-downloader](https://github.com/404-novel-project/novel-downloader) - 一个可扩展的通用型小说下载器。
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login
@@ -1434,7 +1435,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [colinhacks/devii](https://github.com/colinhacks/devii) - A developer blog starter for 2021 (Next.js + React + TypeScript + Markdown + syntax highlighting)
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
-- [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
+- [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - [ARCHIVED] A JavaScript library to draw pretty git graphs in the browser
 - [seth-brown/formd](https://github.com/seth-brown/formd) - A Markdown formatting tool
 - [beerose/theme-ui-sketchy](https://github.com/beerose/theme-ui-sketchy) - Sketchy Theme UI Preset
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1496,7 +1497,6 @@
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [roimdev/roim-picx](https://github.com/roimdev/roim-picx) - free image service based on cloudflare Pages & R2.基于CloudFlare Pages和R2实现的免费图床。
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) - Web Interface for Cloudflare R2
-- [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [NanaMorse/Cuckoo.Plus](https://github.com/NanaMorse/Cuckoo.Plus) - A GooglePlus-Like third-party web client for mastodon.
